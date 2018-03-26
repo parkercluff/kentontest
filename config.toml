@@ -1,4 +1,4 @@
-baseURL = "http://kentontest.parkercluff.com/"
+baseURL = "https://kentontest.parkercluff.com/"
 languageCode = "en-us"
 title = "Kenton Test"
 theme = "ananke"
