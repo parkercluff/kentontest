@@ -12,3 +12,4 @@ title = "Test new template post"
 type = "post"
 
 +++
+Testing this new category stuff
